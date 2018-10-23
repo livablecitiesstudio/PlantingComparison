@@ -1,6 +1,7 @@
 // Author: CodyHouse
 // Website: https://codyhouse.co/
 // Source: https://github.com/CodyHouse/image-comparison-slider
+//Copyright 2018 Amber Creative Lab Ltd, CodyHouse.co
 
 jQuery(document).ready(function($){
     var dragging = false,
